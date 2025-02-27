@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishaan+Sharma;" />
 </h1>
 
-<h3 align="center" style="color: red;"> 🔭 Software Engineer | Backend & Cloud Enthusiast | AI & ML Practitioner </h3>
+<h3 align="center" style="color: red;"> 🔭 Full Stack Software Engineer👨‍💻 | AI Agents Developer | AI & ML Practitioner </h3>
 
 ### About Me:
 
